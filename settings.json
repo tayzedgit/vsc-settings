@@ -1,0 +1,15 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    
+    // Font Behaviour
+    "editor.fontFamily": "Ubuntu Mono",
+    "editor.fontWeight": "normal",
+    
+    // Smooth animations
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+
+    // Misc.
+    "workbench.colorTheme": "Palenight Theme",
+    "kite.showWelcomeNotificationOnStartup": false
+}
