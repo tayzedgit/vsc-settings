@@ -3,6 +3,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     
     // Font
+    "editor.fontSize": 14,
     "editor.fontFamily": "Ubuntu Mono",
     "editor.fontWeight": "normal",
     
@@ -14,5 +15,6 @@
     "workbench.colorTheme": "Palenight Theme",
 
     // Kite
-    "kite.showWelcomeNotificationOnStartup": false
+    "kite.showWelcomeNotificationOnStartup": false,
+    "window.zoomLevel": 1
 }
