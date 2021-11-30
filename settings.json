@@ -1,15 +1,18 @@
 {
+    // I don't really know what this does, to be honest
     "javascript.updateImportsOnFileMove.enabled": "always",
     
-    // Font Behaviour
+    // Font
     "editor.fontFamily": "Ubuntu Mono",
     "editor.fontWeight": "normal",
     
-    // Smooth animations
+    // Animations
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": true,
 
-    // Misc.
+    // Theme
     "workbench.colorTheme": "Palenight Theme",
+
+    // Kite
     "kite.showWelcomeNotificationOnStartup": false
 }
