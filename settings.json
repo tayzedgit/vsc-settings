@@ -1,5 +1,5 @@
 {
-    // I don't really know what this does, to be honest
+    // Misc.
     "javascript.updateImportsOnFileMove.enabled": "always",
     
     // Font
@@ -16,5 +16,7 @@
 
     // Kite
     "kite.showWelcomeNotificationOnStartup": false,
-    "window.zoomLevel": 1
+    
+    // Window
+    "window.zoomLevel": 0,
 }
