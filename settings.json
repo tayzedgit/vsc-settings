@@ -1,10 +1,10 @@
 {
-    // Misc.
+    // Javascript
     "javascript.updateImportsOnFileMove.enabled": "always",
     
     // Font
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Ubuntu Mono",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "MonoLisa",
     "editor.fontWeight": "normal",
     
     // Animations
@@ -12,11 +12,38 @@
     "editor.cursorSmoothCaretAnimation": true,
 
     // Theme
-    "workbench.colorTheme": "Palenight Theme",
-
-    // Kite
-    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.colorTheme": "One Dark Pro",
     
     // Window
     "window.zoomLevel": 0,
+
+    // One Dark Pro
+    "oneDarkPro.editorTheme": "Panda",
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+
+    // Formatter
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.fontLigatures": false,
+    "settingsSync.ignoredExtensions": [
+    "ms-python.vscode-pylance"
+
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+
+    /*
+    Top Fonts
+    - Anonymous Pro
+    - Fira Code
+    - Dank Mono
+    - Mono Lisa
+    - Ubuntu Mono
+    */
+
+    // Miscellaneous
 }
